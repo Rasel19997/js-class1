@@ -1,0 +1,26 @@
+img{
+    height: 200px;
+}
+
+   
+
+body{
+    background-image: url(https://image.shutterstock.com/image-photo/flag-argentina-on-flagpole-against-260nw-1100762612.jpg);
+    
+    background-size: cover;
+    
+}
+h1{
+    color:red;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+h2{
+    color:#d58d15;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+
